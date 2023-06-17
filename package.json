@@ -16,6 +16,7 @@
   "dependencies": {
     "@solana/spl-token": "^0.3.6",
     "@solana/web3.js": "^1.73.0",
-    "dotenv": "^16.0.1"
+    "dotenv": "^16.0.1",
+    "w3name": "^1.0.8"
   }
 }
